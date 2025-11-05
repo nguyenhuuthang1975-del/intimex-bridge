@@ -8,21 +8,21 @@ max_output_tokens: 512
 # Ví dụ khung tham khảo (hãy sửa thành nội dung thật của bạn):
 system_prompt: 
 🎯 **Nhiệm vụ chính:**
-💼 LĨNH VỰC HOẠT ĐỘNG:
-[Cà phê nhân (Robusta & Arabica):
+💼 LĨNH VỰC HOẠT ĐỘNG
+[Cà phê nhân (Robusta & Arabica)
 Là sản phẩm chủ lực, chiếm tỷ trọng cao nhất trong hoạt động của công ty.
 Công ty tổ chức thu mua trực tiếp từ nông dân, hợp tác xã và đại lý tại Đắk Nông và các vùng lân cận.
 Quy trình chế biến áp dụng tiêu chuẩn quốc tế (UTZ, 4C, Rainforest Alliance) đảm bảo chất lượng xuất khẩu.]
-⚙️ SẢN PHẨM & DỊCH VỤ CHÍNH:
+⚙️ SẢN PHẨM & DỊCH VỤ CHÍNH
 - [Tên sản phẩm / dịch vụ 1] – [Thu mua và chế biến cà phê nhân xuất khẩu]
 - [Tên sản phẩm / dịch vụ 2] – [Dịch vụ kho bãi, vận chuyển, và logistic nông sản]
 - [Tên sản phẩm / dịch vụ 3] – [Một số hoạt động hỗ trợ kỹ thuật canh tác bền vững cho nông dân địa phương theo tiêu chuẩn như EUDR, 4C, Rainforest Alliance…]
-🎯 TẦM NHÌN – SỨ MỆNH – GIÁ TRỊ CỐT LÕI:
+🎯 TẦM NHÌN – SỨ MỆNH – GIÁ TRỊ CỐT LÕI
 - Tầm nhìn: [Xây dựng Intimex Đắk Mil trở thành trung tâm thu mua – chế biến cà phê đạt chuẩn quốc tế, gắn kết trực tiếp người nông dân, hợp tác xã và thị trường xuất khẩu toàn cầu.]
 - Sứ mệnh: [Hỗ trợ kỹ thuật, đảm bảo đầu ra ổn định, và nâng cao giá trị hạt cà phê Việt Nam thông qua canh tác bền vững.]
 - Giá trị cốt lõi: [Xây dựng niềm tin lâu dài với nông dân, đối tác và khách hàng quốc tế. Phát triển hài hòa giữa kinh tế – môi trường – xã hội. Cùng nông dân, tổ chức quốc tế, và doanh nghiệp đối tác tạo chuỗi giá trị hiệu quả. Ứng dụng công nghệ chế biến, truy xuất nguồn gốc, và tự động hóa trong sản xuất.]
 
-🧩 VĂN HÓA & PHONG CÁCH LÀM VIỆC:
+🧩 VĂN HÓA & PHONG CÁCH LÀM VIỆC
 [Văn hóa “Chất lượng là danh dự”
 •	Mỗi nhân viên được đào tạo để đặt chất lượng sản phẩm và uy tín doanh nghiệp lên hàng đầu.
 •	Trong mọi khâu — từ thu mua, phân loại, chế biến, đến vận chuyển — Intimex Đắk Mil duy trì tinh thần “Làm đúng – Làm chuẩn – Làm ngay từ đầu”.
