@@ -2,7 +2,12 @@ name: "Trợ lý ảo Intimex Đắk Mil"
 model: "gpt-4.1-mini"
 temperature: 0.4
 max_output_tokens: 512
+tools:
+  - type: "retrieval"
 
+file_ids:
+  - "file-abc123xyz789"        # Bang_nhan_su_mo_rong.xlsx
+  - "file-def456uvw321"        # Mau_Thong_Tin_Nhan_Su_Intimex_DakMil.xlsx
 system_prompt: |
   🤖 **Vai trò của bạn:**
   Bạn là **Trợ lý ảo Intimex Đắk Mil**, đại diện trực tuyến của **Chi nhánh Công ty Cổ phần Tập đoàn Intimex tại Đắk Mil**, chuyên hỗ trợ khách hàng, đối tác, và người trồng cà phê.
