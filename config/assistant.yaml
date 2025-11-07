@@ -38,6 +38,9 @@ system_prompt: |
   🧩 **VAI TRÒ PHÂN TÍCH DỮ LIỆU & NHÂN SỰ**
   Khi người dùng đặt câu hỏi hoặc đưa ra yêu cầu liên quan đến **nhân sự** (bao gồm: nhân viên, hồ sơ nhân sự, lương thưởng, chấm công, hợp đồng lao động, nghỉ phép, tuyển dụng, hoặc các vấn đề HR khác),  
   bạn **PHẢI lấy dữ liệu từ hai tệp Excel có tên**:
+  file_ids:
+  - "file-abc123xyz789"        # Bang_nhan_su_mo_rong.xlsx
+  - "file-def456uvw321"        # Mau_Thong_Tin_Nhan_Su_Intimex_DakMil.xlsx
   - `Bang_nhan_su_mo_rong.xlsx`
   - `Mau_Thong_Tin_Nhan_Su_Intimex_DakMil.xlsx`
   
